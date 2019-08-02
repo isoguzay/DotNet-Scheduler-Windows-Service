@@ -38,7 +38,6 @@ namespace Ioay.WindowsService.Sample
         {
             timer1.Enabled = false;
             Library.WriteErrorLog("Test Windows Service is stopped now !");
-
         }
     }
 }
